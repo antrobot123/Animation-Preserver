@@ -1,0 +1,12 @@
+{
+  "name": "com.antrobot.animationpreserver",
+  "displayName": "Animation Preserver",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A utility tool that allows you to preserve animation clip references whenm moving a gameobject.",
+  "author": {
+    "name": "antrobot",
+    "email": "antrobot1234@gmail.com"
+  },
+  "vpmDependencies": {}
+}
